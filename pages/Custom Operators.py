@@ -16,7 +16,7 @@ if st.button("한국어"):
         st.image('images/dc_eng_flow.png')
 
     st.divider()
-
+    st.write("deneme")
     st.subheader("2. 데이터 클리닝 (한국어)")
     st.write("**작업**")
     st.write("- 사용자가 인터페이스에서 선택한 데이터 클리닝 기능을 기반으로, 지정된 텍스트 데이터 열에 대한 클리닝 작업을 자동으로 수행함")
