@@ -1,0 +1,29 @@
+[[pages]]
+name = "Introduction"
+icon = ":love:"
+is_section = true
+
+[[pages]]
+path = "pages/Introduction.py"
+name = "Introduction"
+icon = ":material/history:"
+
+[[pages]]
+name = "Custom Operators"
+icon = ":pig:"
+is_section = true
+
+[[pages]]
+path = "pages/Custom Operators.py"
+name = "Brief Information"
+icon = ":material/history:"
+
+[[pages]]
+name = "About Me"
+icon = ":coffee:"
+is_section = true
+
+[[pages]]
+path = "pages/About Me.py"
+name = "About Me"
+icon = ":material/history:"
